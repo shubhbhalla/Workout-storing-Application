@@ -1,0 +1,366 @@
+{
+    "Ss": {
+        "intensity": 1.15,
+        "gender": "Male",
+        "workouts": [],
+        "weight": 90,
+        "age": 12,
+        "height": 910
+    },
+    "Alex": {
+        "intensity": 1.5,
+        "gender": "Male",
+        "workouts": [{
+            "duration": 30,
+            "exercises": [
+                {
+                    "reps": [
+                        10,
+                        10
+                    ],
+                    "sets": 2,
+                    "name": "Sledge_Hammer",
+                    "weights": [
+                        10,
+                        10
+                    ]
+                },
+                {
+                    "reps": [20],
+                    "sets": 1,
+                    "name": "Dumbbell_Bench_Press",
+                    "weights": [100]
+                }
+            ]
+        }],
+        "weight": 75,
+        "age": 19,
+        "height": 182
+    },
+    "ssssssssss": {
+        "intensity": 1.5,
+        "gender": "Female",
+        "workouts": [{
+            "duration": 60,
+            "exercises": [
+                {
+                    "reps": [5],
+                    "sets": 1,
+                    "name": "Incline_Dumbbell_Press",
+                    "weights": [10]
+                },
+                {
+                    "reps": [5],
+                    "sets": 1,
+                    "name": "One_Arm_Dumbbell_Row",
+                    "weights": [5]
+                },
+                {
+                    "reps": [
+                        2,
+                        7,
+                        5
+                    ],
+                    "sets": 3,
+                    "name": "Side_Lateral_Raise",
+                    "weights": [
+                        12,
+                        15,
+                        18
+                    ]
+                },
+                {
+                    "reps": [20],
+                    "sets": 1,
+                    "name": "Sit_Ups",
+                    "weights": [2]
+                }
+            ]
+        }],
+        "weight": 50,
+        "age": 42,
+        "height": 160
+    },
+    "srtyu": {
+        "intensity": 1.15,
+        "gender": "Male",
+        "workouts": [],
+        "weight": 90,
+        "age": 70,
+        "height": 90
+    },
+    "shubh": {
+        "intensity": 1.15,
+        "gender": "Male",
+        "workouts": [
+            {
+                "duration": 1,
+                "exercises": [
+                    {
+                        "reps": [1],
+                        "sets": 1,
+                        "name": "Dumbbell_Bench_Press",
+                        "weights": [1]
+                    },
+                    {
+                        "reps": [1],
+                        "sets": 1,
+                        "name": "Dumbbell_Bench_Press",
+                        "weights": [1]
+                    }
+                ]
+            },
+            {
+                "duration": 30,
+                "exercises": [{
+                    "reps": [1],
+                    "sets": 1,
+                    "name": "Dumbbell_Bench_Press",
+                    "weights": [1]
+                }]
+            },
+            {
+                "duration": 1,
+                "exercises": [{
+                    "reps": [1],
+                    "sets": 1,
+                    "name": "Dumbbell_Bench_Press",
+                    "weights": [1]
+                }]
+            },
+            {
+                "duration": 3000000,
+                "exercises": [
+                    {
+                        "reps": [1],
+                        "sets": 1,
+                        "name": "Squat",
+                        "weights": [1]
+                    },
+                    {
+                        "reps": [1],
+                        "sets": 1,
+                        "name": "Deadlift",
+                        "weights": [1]
+                    }
+                ]
+            },
+            {
+                "duration": 30,
+                "exercises": [
+                    {
+                        "reps": [
+                            10,
+                            10
+                        ],
+                        "sets": 2,
+                        "name": "Dumbbell_Bench_Press",
+                        "weights": [
+                            30,
+                            30
+                        ]
+                    },
+                    {
+                        "reps": [10],
+                        "sets": 1,
+                        "name": "Military_Press",
+                        "weights": [100]
+                    },
+                    {
+                        "reps": [20],
+                        "sets": 1,
+                        "name": "Sit_Ups",
+                        "weights": [20]
+                    }
+                ]
+            }
+        ],
+        "weight": 90,
+        "age": 70,
+        "height": 90
+    },
+    "ananya": {
+        "intensity": 1.5,
+        "gender": "Female",
+        "workouts": [{
+            "duration": 30,
+            "exercises": [
+                {
+                    "reps": [
+                        12,
+                        12
+                    ],
+                    "sets": 2,
+                    "name": "Rowing",
+                    "weights": [
+                        14,
+                        20
+                    ]
+                },
+                {
+                    "reps": [
+                        12,
+                        12
+                    ],
+                    "sets": 2,
+                    "name": "Crunches",
+                    "weights": [
+                        10,
+                        10
+                    ]
+                }
+            ]
+        }],
+        "weight": 52,
+        "age": 19,
+        "height": 140
+    },
+    "laya": {
+        "intensity": 1.15,
+        "gender": "Female",
+        "workouts": [{
+            "duration": 10,
+            "exercises": [{
+                "reps": [
+                    10,
+                    10,
+                    5
+                ],
+                "sets": 3,
+                "name": "Plank",
+                "weights": [
+                    20,
+                    20,
+                    30
+                ]
+            }]
+        }],
+        "weight": 55,
+        "age": 19,
+        "height": 158
+    },
+    "swertysss": {
+        "intensity": 1.15,
+        "gender": "Male",
+        "workouts": [{
+            "duration": 100,
+            "exercises": [
+                {
+                    "reps": [1],
+                    "sets": 1,
+                    "name": "Dumbbell_Bench_Press",
+                    "weights": [1]
+                },
+                {
+                    "reps": [1],
+                    "sets": 1,
+                    "name": "Dumbbell_Bench_Press",
+                    "weights": [1]
+                }
+            ]
+        }],
+        "weight": 19,
+        "age": 18,
+        "height": 1290
+    },
+    "sssssdfghjs": {
+        "intensity": 1.5,
+        "gender": "Male",
+        "workouts": [{
+            "duration": 20000000,
+            "exercises": [{
+                "reps": [1],
+                "sets": 1,
+                "name": "Lat_Pushdown",
+                "weights": [1]
+            }]
+        }],
+        "weight": 190,
+        "age": 30,
+        "height": 190
+    },
+    "jashan": {
+        "intensity": 1.5,
+        "gender": "Male",
+        "workouts": [{
+            "duration": 30,
+            "exercises": [
+                {
+                    "reps": [
+                        5,
+                        5,
+                        4
+                    ],
+                    "sets": 3,
+                    "name": "Incline_Bench_Press",
+                    "weights": [
+                        50,
+                        50,
+                        60
+                    ]
+                },
+                {
+                    "reps": [
+                        10,
+                        8,
+                        6
+                    ],
+                    "sets": 3,
+                    "name": "Deadlift",
+                    "weights": [
+                        200,
+                        250,
+                        300
+                    ]
+                }
+            ]
+        }],
+        "weight": 80,
+        "age": 20,
+        "height": 180
+    },
+    "smnbva": {
+        "intensity": 1.15,
+        "gender": "Male",
+        "workouts": [],
+        "weight": 90,
+        "age": 70,
+        "height": 90
+    },
+    "Ron Maharik": {
+        "intensity": 1.5,
+        "gender": "Male",
+        "workouts": [{
+            "duration": 60,
+            "exercises": [
+                {
+                    "reps": [
+                        20,
+                        15
+                    ],
+                    "sets": 2,
+                    "name": "Dumbbell_Bench_Press",
+                    "weights": [
+                        40,
+                        45
+                    ]
+                },
+                {
+                    "reps": [10],
+                    "sets": 1,
+                    "name": "Military_Press",
+                    "weights": [70]
+                },
+                {
+                    "reps": [20],
+                    "sets": 1,
+                    "name": "Rowing",
+                    "weights": [100]
+                }
+            ]
+        }],
+        "weight": 70,
+        "age": 44,
+        "height": 179
+    }
+}

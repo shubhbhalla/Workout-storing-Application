@@ -1,0 +1,16 @@
+{"test": {
+    "intensity": 1.35,
+    "gender": "Female",
+    "workouts": [{
+        "duration": 50,
+        "exercises": [{
+            "reps": [1],
+            "sets": 1,
+            "name": "Rowing",
+            "weights": [1]
+        }]
+    }],
+    "weight": 190,
+    "age": 19,
+    "height": 190
+}}
