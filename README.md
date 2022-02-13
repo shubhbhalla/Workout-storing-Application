@@ -7,6 +7,7 @@ intensity of their workouts. The application determines the user's *total daily 
 The user can choose to eat more than their TDEE if they want to gain weight, or they can eat less than their 
 TDEE if they want to lose weight.
 
+## Creating a new user
 <img width="596" alt="Screen Shot 2022-02-13 at 10 39 51 AM" src="https://user-images.githubusercontent.com/67706402/153769671-f25abef6-99b0-41a2-89e0-4d66b3355d3a.png">
 
 The application will do the following things (this list is not exhaustive):
@@ -20,6 +21,7 @@ The application will do the following things (this list is not exhaustive):
 The user should enter the duration of their weight lifting session, weights 
 used (including sets and reps) in weight lifting session in the application after completing their workout.
 
+## Reviewing previous workout records of user
 <img width="802" alt="Screen Shot 2022-02-13 at 10 40 58 AM" src="https://user-images.githubusercontent.com/67706402/153769688-7513f198-c5d5-47d0-96e7-bef266914bee.png">
 
 This project is very close to me, and I have been dreaming to make a project like this since
